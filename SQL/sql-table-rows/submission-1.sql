@@ -1,5 +1,4 @@
-create table cities(
-    name text,
+create table cities(name text,
     population integer,
     country text,
     is_capital boolean,
